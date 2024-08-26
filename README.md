@@ -1,6 +1,7 @@
 # hi1032dockervnc
 
-A small little repo for running a docker image with `xfce4`, `vnc`, `xplot.org` and `tcptrace`
+A small little repo for running a docker image with `xfce4`, `vnc`, `xplot.org` and `tcptrace`.
+The directory `shared` is mounted to the image by default on `/shared`.
 
 ## Build with
 
