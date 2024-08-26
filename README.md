@@ -1,5 +1,7 @@
 # hi1032dockervnc
 
+A small little repo for running a docker image with `xfce4`, `vnc`, `xplot.org` and `tcptrace`
+
 ## Build with
 
 ```bash
