@@ -1,2 +1,3 @@
 shared/*
 !shared/.gitkeep
+!shared/log2.dmp
